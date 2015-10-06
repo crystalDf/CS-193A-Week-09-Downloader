@@ -1,0 +1,11 @@
+Cyberduck-Installer-4.6.3.exe
+WinMerge-2.14.0-Setup.exe
+allwords.txt
+cppcheck-1.67.tar.bz2
+love-nala-heart.jpg
+mfc42.dll
+mobydick.txt
+nunchucks.jpg
+smalldict.txt
+windiff.zip
+words.txt

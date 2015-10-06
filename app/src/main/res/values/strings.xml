@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Downloader</string>
+    <string name="get_them_all">Get \'em all!</string>
+    <string name="url_address">http://www.martystepp.com/files/</string>
+    <string name="go">Go</string>
+    <string name="one">one</string>
+    <string name="two">two</string>
+    <string name="three">three</string>
+    <string name="four">four</string>
+</resources>
